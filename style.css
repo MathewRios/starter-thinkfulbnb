@@ -5,15 +5,15 @@ body {
 }
 
 h2 {
-  font-size: 26px;
-  font-weight: 600;
+  font-size: 34px;
+  font-weight: 500;
   margin: 0 10px 10px 10px;
   text-align: center;
 }
 
 h3 {
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 22px;
+  font-weight: 550;
 }
 
 p {
@@ -30,7 +30,7 @@ section.alternate-background {
   color: #fff;
 }
 
-/* Responsive images*/
+/* Responsive Images */
 main img {
   width: 100%;
 }
@@ -96,11 +96,11 @@ header nav ul {
 
 header nav ul li {
   list-style-type: none;
-  font-size: 20px;
 }
 
 header nav ul li a {
   color: #fff;
+  font-size: 20px;
   text-decoration: none;
   padding: 0 20px 0 0;
 }
@@ -111,9 +111,10 @@ header nav ul li a:hover {
 }
 
 /* -------  Search Form ------- */
+
 form {
   border: 2px solid #ff385c;
-  margin: 0 60px;
+  margin: 0 10px;
   padding: 10px;
 }
 
@@ -131,8 +132,9 @@ form button {
   background-color: #ff385c;
   border: none;
   color: #fff;
-  font-size: 24px;
-  padding: 15px;
+  font-size: 34px;
+  padding: 12px;
+  margin-top: 20px 10px 10px 10px;
   width: 100%;
 }
 
